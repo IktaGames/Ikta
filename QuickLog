@@ -1,0 +1,21 @@
+-Présentation du projet rapidos par Antoine, c’est peu clair, il nous laisse beaucoup de liberté a juste besoin d’un jeux antitabac connecté aux e-cigs
+-Recherche – input cigarette électronique, recherches d’autres jeux, apps, des possibles données auxquelles on aurait accès. Processus qui prend plusieurs jours.
+http://www.frandroid.com/produits-android/accessoires-objets-connectes/223609_myvaps-module-permettant-suivre-consommation-cigarette-electronique-se-lance-indiegogo
+http://www.dowino.com/
+http://www.serious-game.fr/un-serious-game-de-sensibilisation-sur-les-risques-lies-au-tabac/
+http://kwit.fr
+https://www.smokitten.com/fr/
+-Brainstorm de gamification – type de jeu (on pensait d’abord a un builder qui traduirait l’input cigarette en niveau de pollution). A la fin on a décidé qu’un serious game ne serait pas adapté a un processus de sevrage (trop chiant) donc on décide de faire un jeu assez basique avec une interface de discussion.
+-Aspects du jeu
+– On décide de « l’entité » avec laquelle on parle – une forme organique mais pas humanoïde.
+           	-Jeu en lui-même – système de aim and shoot avec un countdown, différents ennemis etc.
+           	-Recherche addiction pour faire le dialogue.
+           	https://itunes.apple.com/au/app/quit-now-my-quitbuddy/id527485761?mt=8
+           	http://www.wikihow.com/Quit-Smoking
+           	https://play.google.com/store/apps/details?id=com.portablepixels.smokefree
+           	https://play.google.com/store/apps/details?id=com.despdev.quitsmoking
+           	https://play.google.com/store/apps/details?id=com.herzberg.easyquitsmoking
+           	https://play.google.com/store/apps/details?id=com.motivebite.smokefree.free
+           	https://www.cdc.gov/tobacco/quit_smoking/cessation/quitlines/pdfs/chapter1.pdf
+           	http://sites.nationalacademies.org/Tobacco/SmokingCessation/Tobacco_051286
+ 
